@@ -2,6 +2,16 @@
 
 A comprehensive system that recommends the best AI coding agent (GitHub Copilot, Cursor, or Replit) for your specific coding tasks using intelligent analysis and scoring algorithms.
 
+![image](https://github.com/user-attachments/assets/a1220b1e-a822-4bfc-b91d-2bc771aafa71)
+
+![image](https://github.com/user-attachments/assets/1ef1def8-6cdd-452e-ab73-ecbbe470e45d)
+
+![image](https://github.com/user-attachments/assets/d17a76ae-f71f-4aa1-b2ed-38c8696fb3f9)
+
+![image](https://github.com/user-attachments/assets/12279c59-c8cc-42a8-b2fd-adb429781154)
+
+
+
 ## 🚀 Features
 
 - **Natural Language Task Analysis**: Describe your coding task in plain English
